@@ -1,0 +1,43 @@
+# Xcode
+.DS_Store
+*.swpm
+*.xcworkspace
+!default.xcworkspace
+xcodebuild/
+*.xcodeproj
+!default.xcodeproj
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xcbkptlist
+*.xcscheme
+Pods/
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+*.xcodeproj/project.xcworkspace/
+
+# App-specific
+*.env
+*.env.local
+*.mobileprovision
+*.signingidentity
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Local development overrides
+LocalOverrides.xcconfig
