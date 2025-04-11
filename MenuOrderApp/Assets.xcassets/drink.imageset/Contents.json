@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "drink.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
