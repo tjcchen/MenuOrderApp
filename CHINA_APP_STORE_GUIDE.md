@@ -1,4 +1,4 @@
-# Guide to Publishing Your Menu Order App on the China iOS App Store
+# Guide to Publishing an App on the China iOS App Store
 
 Publishing an app to the China iOS App Store involves some specific requirements beyond the standard App Store process. Here's a comprehensive guide to help you navigate this process:
 
